@@ -1,0 +1,14 @@
+{
+    "client": {
+        "clientId": "Number",
+        "clientName": "String",
+        "clientBirth": "Number",
+        "numberPassword": "Number",
+        "letterPassword": "String"
+    },
+    "bank": {
+        "bankId": "Number",
+        "bankName": "String",
+        "statement": "Number"
+    }
+}
